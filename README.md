@@ -7,3 +7,14 @@ C programming beginners
 Understanding if...else logic
 
 Practicing user input and output
+
+
+### 🔧 How to Run:
+
+1. Compile the program:
+```bash
+gcc leap_year.c -o leap_year
+2 . Run it:
+
+bash
+./leap_year
